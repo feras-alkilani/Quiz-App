@@ -127,14 +127,7 @@ function QuestionPlace() {
                 </li>
               ))}
             </ul>
-            {isAnswered && (
-              <div className="feedback">
-                {selectedOption !== null &&
-                questions[questionNumber].options[selectedOption].isCorrect
-                  ? "Correct!"
-                  : "Incorrect!"}
-              </div>
-            )}
+
             <p>
               Question {questionNumber + 1} from {questions.length}
             </p>

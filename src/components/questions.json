@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "q": "Which device is required for the internet connection?",
+        "options": [
+            {
+                "text": "Modem",
+                "isCorrect": true
+            },
+            {
+                "text": "Router",
+                "isCorrect": false
+            },
+            {
+                "text": "Lan Cable",
+                "isCorrect": false
+            },
+            {
+                "text": "Pen Drive",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "q": "Which continent has the highest number of countries?",
+        "options": [
+            {
+                "text": "Asia",
+                "isCorrect": false
+            },
+            {
+                "text": "Europe",
+                "isCorrect": false
+            },
+            {
+                "text": "North America",
+                "isCorrect": false
+            },
+            {
+                "text": "Africa",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "q": "Junk Email is also called:",
+        "options": [
+            {
+                "text": "Spam",
+                "isCorrect": true
+            },
+            {
+                "text": "Fake",
+                "isCorrect": false
+            },
+            {
+                "text": "Archived",
+                "isCorrect": false
+            },
+            {
+                "text": "Bin",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "q": "A computer cannot BOOT if it does not have the:",
+        "options": [
+            {
+                "text": "Application software",
+                "isCorrect": false
+            },
+            {
+                "text": "Internet",
+                "isCorrect": false
+            },
+            {
+                "text": "Operating system",
+                "isCorrect": true
+            },
+            {
+                "text": "Mouse",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "q": "The first page of a website is termed as:",
+        "options": [
+            {
+                "text": "Index Page",
+                "isCorrect": false
+            },
+            {
+                "text": "Homepage",
+                "isCorrect": true
+            },
+            {
+                "text": "Sitemap",
+                "isCorrect": false
+            },
+            {
+                "text": "Pen Drive",
+                "isCorrect": false
+            }
+        ]
+    }
+]

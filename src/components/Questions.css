@@ -41,6 +41,7 @@
   border-radius: 5px;
   box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
   padding-top: 5px;
+  transition: background-color 0.3s ease, opacity 0.3s ease;
 }
 
 .result {
@@ -109,4 +110,30 @@
   .score {
     font-size: 1.2rem; /* Slightly reduce text size */
   }
+}
+
+.progress-bar {
+  width: 100%;
+  background-color: #e0e0e0;
+  height: 10px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.progress {
+  height: 100%;
+  background-color: #4caf50;
+  border-radius: 5px;
+}
+
+.feedback {
+  font-size: 1.2rem;
+  margin-top: 10px;
+  font-weight: bold;
+}
+.timer {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+  margin-top: 20px;
 }
